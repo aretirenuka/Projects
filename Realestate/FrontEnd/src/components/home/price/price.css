@@ -1,0 +1,127 @@
+/* .price {
+  text-align: center;
+}
+.price .content .box {
+  width: 31.5%;
+  padding: 30px;
+  border-radius: 10px;
+}
+.price button {
+  margin-bottom: 20px;
+}
+.price .box:nth-child(1) .topbtn button,
+.price .box:nth-child(3) .topbtn button {
+  display: none;
+}
+.price h3 {
+  font-size: 22px;
+}
+.price h1 {
+  font-size: 60px;
+}
+.price h1 span {
+  font-size: 30px;
+  font-weight: 500;
+}
+.price ul {
+  margin-top: 40px;
+} */
+/* .price ul li {
+  display: flex;
+  margin-bottom: 20px;
+}
+.price label {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.price .btn5 {
+  width: 100%;
+}
+@media screen and (max-width: 800px) {
+  .price .content {
+    flex-direction: column;
+  }
+
+  .price .content .box {
+    width: 100%;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+  }
+} */
+.shadoww .selectt{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 910px;
+}
+.shadoww .select1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.shadoww{
+  box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
+}
+/* .shadoww .textareaa::placeholder{
+   font-style: normal;
+   font-weight:900;
+
+} */
+.shadoww form{
+  margin-left: 100px;
+  padding-top: 400px;
+}
+.price label{
+  color: black;
+  font-size: 15px;
+}
+.price form select{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+}
+.price form div {
+  display: flex;
+}
+.price textarea {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.price input {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.price .submitt{
+      background-color: #EE6C4D;
+      border-radius: 10px;
+}
+.price form {
+  padding: 30px;
+}
+@media screen and (max-width: 768px) {
+  .price h4 {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .price form div {
+    flex-direction: column;
+  }
+  .price input {
+    width: 100%;
+  }
+}
+.shadoww .selll_button{
+  margin-top: 20px;
+}
+textarea{
+  resize: none;
+}
+

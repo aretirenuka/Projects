@@ -1,0 +1,80 @@
+header {
+  background-color: #fff;
+  height: 10vh;
+  /* box-shadow: 0 5px 30px rgb(0 22 84 / 10%); */
+  box-shadow: 0 2px 5px rgba(0,22,84,0.16);
+  padding: 15px 0;
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+  display: flex;
+}
+header img {
+  width: 170px;
+  height: 44px;
+}
+header a {
+  margin-left: 30px;
+  transition: 0.5s;
+  font-weight: 500;
+}
+header a:hover {
+  color: #EE6C4D;
+}
+header span {
+  width: auto;
+  padding: 0px 6px;
+  background: #EE6C4D;
+  border-radius: 50px;
+  color: #ffffff;
+  margin-right: 4px;
+  font-weight: 400;
+}
+header h4 {
+  font-weight: 500;
+  margin-right: 20px;
+}
+header .toggle {
+  display: none;
+}
+.nav-btn button{
+  padding: 10px 20px;
+  border-radius: 3px;
+}
+@media screen and (max-width: 768px) {
+  header {
+    padding: 0;
+  }
+  header img {
+    margin-top: 30px;
+  }
+  header .button {
+    display: none;
+  }
+  header .nav .flex {
+    display: none;
+  }
+  header .toggle {
+    display: block;
+    margin-top: 20px;
+  }
+  header .small {
+    position: absolute;
+    top: 10vh;
+    left: 0;
+    width: 100%;
+    background-color: #EE6C4D;
+    padding: 20px;
+  }
+  header li a {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+}
+.btn1{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
