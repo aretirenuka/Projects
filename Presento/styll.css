@@ -1,0 +1,34 @@
+.body .main{
+	background-color: #f2f2f2;
+}
+.main{
+	height:450px;
+}
+.main.col-md-6{
+	border-radius: 250px;
+	box-shadow: 15px 15px white;
+}
+.row i{
+	color: crimson;
+}
+.row .icon1{
+	margin-left: -350px;
+}
+.row .icon2{
+	margin-right: -300px;
+	margin-top: -180px;
+}
+.col-md-6 .form{
+	margin-right: -200px;
+}
+.col-md-3 i{
+	color: white;
+}
+.col-md-3 p: hover{
+	background color: white;
+
+}
+.col-md-12 i{
+	color: white;
+	
+}

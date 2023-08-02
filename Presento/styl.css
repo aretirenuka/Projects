@@ -1,0 +1,18 @@
+.col-md-3 img{
+	width: 250px;
+	height: 250px;
+	border-radius: 5px;
+}
+
+.row2{
+	height: 600px;
+	background-color: #262626;
+	}
+	.row2 h1{
+		color: white;
+	}
+	.row2 h4{
+		color: white;
+	}
+
+

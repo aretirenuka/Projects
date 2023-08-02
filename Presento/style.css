@@ -1,0 +1,26 @@
+.container-fluid{
+	font-size: 14px;
+	text-align: center;
+}
+
+
+.h1{
+	color: white;
+}
+.h3{
+	color: white;
+}
+
+
+.body.col-md-6 img{
+	height: 70px;
+	width: 70px;
+}
+
+.navbar .ul .h li a:hover
+{
+	background-color: pink;
+	list-style-type: none; 
+}
+
+
